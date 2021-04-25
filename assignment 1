@@ -1,0 +1,12 @@
+
+public class rightHere {
+public static void main(String [] args){
+	System.out.println("hello bro");
+	int x = 30;
+	final int y = 10;
+	
+	int z = x / y;
+	System.out.println(z + " is the quotient of x/y");
+} 
+	
+}
